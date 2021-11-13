@@ -11,6 +11,7 @@ export default function Intro() {
           <h2> New Concept</h2>
         </div>
       </div>
+      <img src="assets/abujeros.png" alt="k" id="gu"></img>
       <div className="text1" >
         <h1>LOG IN </h1>
         <h2>WISHLIST [0]</h2>
