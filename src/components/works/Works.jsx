@@ -3,9 +3,12 @@ import "./works.scss"
 export default function Works() {
   return (
     <div className="works" id="works">
+
       <h1>[ 01 ]</h1>
       <div className="photo0">
         <img src="assets/00.png" alt="k"></img>
+
+
       </div>
       <h2>[ 02 ]</h2>
       <div className="photo09">

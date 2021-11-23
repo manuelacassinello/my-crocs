@@ -2,7 +2,7 @@ import "./intro.scss"
 
 export default function Intro() {
   return (
-    <div className="intro" >
+    <div className="intro" id="intro" >
       <div className="butt">
         <div className="cl">
           <h1> Fall/Winter 21</h1>
