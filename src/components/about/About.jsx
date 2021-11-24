@@ -22,7 +22,7 @@ export default function About() {
           <p>Classic Clog</p>
         </div>
         <div className="p2">
-          <p>Baya Clog</p>
+          <p>Baya Clog x Sein</p>
         </div>
         <div className="p3">
           <p>Crocs Band Clog</p>
